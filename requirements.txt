@@ -1,2 +1,5 @@
-pip install pipreqs
-pipreqs /path/to/your/project
+streamlit==1.32.2
+tensorflow==2.11.0
+numpy==1.22.0
+pickle5==0.0.11
+
